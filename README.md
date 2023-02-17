@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 #hello
 hh
+=======
+hhhh
+>>>>>>> 285822e (Update README.md)
 # learnning git and github
 ## this repowas used to learn how to use git and github
 
