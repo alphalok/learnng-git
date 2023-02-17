@@ -1,4 +1,13 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+#hello
+hh
+=======
 hhhh
+>>>>>>> 285822e (Update README.md)
+=======
+hhhh
+>>>>>>> 285822e4978e06aebc06a424b5f50b64130bad57
 # learnning git and github
 ## this repowas used to learn how to use git and github
 
